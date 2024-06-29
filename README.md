@@ -174,4 +174,4 @@ The playbook.yml play
 > ansible-playbook -i inventory.ini playbook.yaml
 
 - Outputs indicating the successes of each task should be displayed.
-- The nginx can be viewed on a browser.
+- The nginx can be viewed on a browser.# Capstone_DevOps_Project

@@ -2,7 +2,7 @@
 
  These project provides practical learning experiences and cover various aspects of DevOps.
 
-## This is the Main Project Repository >>>>[Capstone_DevOps](https://github.com/Ntiensestan/Capstone_DevOps.git)
+## This is the Main Project Repository >>>>[Capstone_DevOps](https://github.com/Ntiensestan/Capstone_DevOps_Project)
 
 # 1.Containerizing Applications with Docker
 
